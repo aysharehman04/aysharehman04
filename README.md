@@ -1,7 +1,7 @@
 # Aysha Rehman
 
 Machine Learning & Healthcare AI
-First Class Computing Science Graduate (76.36%)  
+First Class Computing Science Graduate (76%)  
 University of East Anglia
 
 ---
